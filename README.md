@@ -5,6 +5,7 @@ Welcome to **your** repository for your GitHub Learning Lab course. This reposit
 1 Cos na probe
 2 Zobaczymy czy dziala
 3 Jejeej
+4 Alal
 
 Oh! I haven't introduced myself...
 
